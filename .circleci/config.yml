@@ -216,6 +216,7 @@ workflows:
     jobs:
       # - welcome/run
       - print_greetings
+      - smoke_test
       # - upload_file
       # - download_file:
       #     requires:
